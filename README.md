@@ -35,8 +35,6 @@ The platform is designed with simplicity in mind, focusing on usability rather t
 - Backend framework / language (as used in the project)
 - Database (as used in the project)
 
-*(Update this section to match your actual stack.)*
-
 ---
 
 ## Future Enhancements
