@@ -78,5 +78,10 @@ This project was developed as part of an undergraduate **Software Development** 
 
 ---
 
+##Future Work:
+In the future, cart option can be added. Also, an OTP system and email verification system to avoid spam orders will be added.
+
+---
+
 ## Notes
 This repository is maintained for academic reference and demonstration purposes and reflects a functional full-stack implementation rather than a production deployment.
