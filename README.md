@@ -74,7 +74,7 @@ The demo walkthrough includes:
 ---
 
 ## Academic Context
-This project was developed as part of an undergraduate **Software Development / Web Engineering** course to demonstrate practical knowledge of frontend frameworks, asynchronous JavaScript, and database-backed web applications.
+This project was developed as part of an undergraduate **Software Development** course to demonstrate practical knowledge of frontend frameworks, asynchronous JavaScript, and database-backed web applications.
 
 ---
 
