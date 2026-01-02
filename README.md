@@ -78,7 +78,7 @@ This project was developed as part of an undergraduate **Software Development** 
 
 ---
 
-##Future Work:
+## Future Work
 In the future, cart option can be added. Also, an OTP system and email verification system to avoid spam orders will be added.
 
 ---
